@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 import { useBlogs } from '../../../hooks/useBlogs.js';
 import BlogCard from '../../BlogCard/BlogCard.js';
 
